@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdulaziz;Machine+Learning+%7C+Full-Stack+Developer;Always+learning+and+building+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdulaziz;Data+Analyst!;Full-Stack+Developer!;Always+learning+and+building+!" alt="Typing SVG" />
 
 # Hi there, I'm Abdulaziz 👋
 
