@@ -74,8 +74,8 @@ I'm a **Computer Science student** and aspiring **Machine Learning Engineer** wi
 ---
 
 ## 📫 How to reach me
-- **LinkedIn**: [Abdulaziz Degefa](https://www.linkedin.com/in/abdulaziz-degefa-3a0453265)
-- **Email**: [abdulazizdegefa78@gmail.com](mailto:abdulazizdegefa78@gmail.com)
+- **LinkedIn** : [Abdulaziz Degefa](https://www.linkedin.com/in/abdulaziz-degefa-3a0453265)
+- **Email** : [abdulazizdegefa78@gmail.com](mailto:abdulazizdegefa78@gmail.com)
 
 ---
 
